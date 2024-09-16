@@ -2,18 +2,19 @@
 
 An elegant and visually appealing toggle switch with elastic animation and dynamic lighting effects.
 
-Description
+## Description
 This repository contains HTML and CSS code for an Elastic Toggle Switch, a user interface element that provides a toggle functionality with an interactive design. The switch has a unique elastic animation when toggled, and it features dynamic lighting effects to enhance the visual experience.
 
-Features
-1. Elastic animation when toggling the switch.
-2. Dynamic lighting effects that respond to the switch state.
-3. Modern and stylish design.
-Usage
-1. Clone this repository or copy the HTML and CSS code to your project.
-2. Include the style.css file in your HTML using the <link> tag.
-3. Add the following HTML code to your desired location:
+## Features
+* Elastic animation when toggling the switch.
+* Dynamic lighting effects that respond to the switch state.
+* Modern and stylish design.
 
+## Usage
+1. Clone this repository or copy the HTML and CSS code to your project.
+2. Include the `style.css` file in your HTML using the `<link>` tag.
+3. Add the following HTML code to your desired location:
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,12 +36,14 @@ Usage
   </div>
 </body>
 </html>
+```
 
-Customization
-You can easily customize the appearance of the Elastic Toggle Switch by modifying the CSS variables defined in the style.css file. The following are some of the variables you can adjust:
+## Customization
+You can easily customize the appearance of the Elastic Toggle Switch by modifying the CSS variables defined in the `style.css` file. The following are some of the variables you can adjust:
 
---sz: Controls the overall size of the toggle switch.
---on: Defines the color for the "on" state.
---of: Defines the color for the "off" state.
---sp: Controls the speed of animations.
+* `--sz`: Controls the overall size of the toggle switch.
+* `--on`: Defines the color for the "on" state.
+* `--of`: Defines the color for the "off" state.
+* `--sp`: Controls the speed of animations.
+  
 Feel free to explore the CSS code and experiment with different values to achieve the desired visual effects.

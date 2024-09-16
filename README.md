@@ -47,3 +47,6 @@ You can easily customize the appearance of the Elastic Toggle Switch by modifyin
 * `--sp`: Controls the speed of animations.
   
 Feel free to explore the CSS code and experiment with different values to achieve the desired visual effects.
+
+## Preview
+<img width="905" alt="Screenshot 2023-08-15 131300" src="https://github.com/Aarzoo75/Elastic-Toggle-Switch/assets/59678435/5763dfdd-9cd0-4ed8-8830-9848046f7a03">

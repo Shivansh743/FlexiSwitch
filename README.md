@@ -10,36 +10,9 @@ This repository contains HTML and CSS code for an FlexiSwitch, a user interface 
 * Dynamic lighting effects that respond to the switch state.
 * Modern and stylish design.
 
-## Usage
-1. Clone this repository or copy the HTML and CSS code to your project.
-2. Include the `style.css` file in your HTML using the `<link>` tag.
-3. Add the following HTML code to your desired location:
-```HTML
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>Elastic Toggle Switch</title>
-</head>
-<body>
-  <div class="content">
-    <input type="checkbox" id="btn">
-    <label for="btn">
-      <span class="thumb"></span>
-    </label>
-    <div class="lights">
-      <span class="light-off"></span>
-      <span class="light-on"></span>
-    </div>
-  </div>
-</body>
-</html>
-```
 
 ## Customization
-You can easily customize the appearance of the Elastic Toggle Switch by modifying the CSS variables defined in the `style.css` file. The following are some of the variables you can adjust:
+You can easily customize the appearance of the FlexiSwitch by modifying the CSS variables defined in the `style.css` file. The following are some of the variables you can adjust:
 
 * `--sz`: Controls the overall size of the toggle switch.
 * `--on`: Defines the color for the "on" state.

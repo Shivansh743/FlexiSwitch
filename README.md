@@ -3,7 +3,7 @@
 An elegant and visually appealing toggle switch with elastic animation and dynamic lighting effects.
 
 ## Description
-This repository contains HTML and CSS code for an Elastic Toggle Switch, a user interface element that provides a toggle functionality with an interactive design. The switch has a unique elastic animation when toggled, and it features dynamic lighting effects to enhance the visual experience.
+This repository contains HTML and CSS code for an FlexiSwitch, a user interface element that provides a toggle functionality with an interactive design. The switch has a unique elastic animation when toggled, and it features dynamic lighting effects to enhance the visual experience.
 
 ## Features
 * Elastic animation when toggling the switch.
